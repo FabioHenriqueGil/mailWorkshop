@@ -30,9 +30,9 @@ public class EmailWorkshop {
 
     public static void main(String[] args) {
 
-  //      InterfaceGUI gui = new InterfaceGUI();
-//        gui.setVisible(true);
-        gerarPDF("Rita de Cássia dos Anjos", 2374);
+        InterfaceGUI gui = new InterfaceGUI();
+        gui.setVisible(true);
+//        gerarPDF("Rita de Cássia dos Anjos", 2374);
         
 
     }
